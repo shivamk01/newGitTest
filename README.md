@@ -1,1 +1,3 @@
 # newGitTest
+
+# add copyright licence
